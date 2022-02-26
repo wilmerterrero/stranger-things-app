@@ -1,0 +1,85 @@
+{
+  "about": {
+    "description": "Stranger Things es una serie sobrenatural/thriller estadounidense de televisión de horror de ciencia ficción creada por los hermanos Duffer para Netflix. Fue escrito y dirigido por Matt y Ross Duffer y ejecutivo-producido por Shawn Levy.\n\nEste emocionante drama de Netflix protagoniza a la premiada actriz Winona Ryder como Joyce Byers, que vive en una pequeña ciudad de Indiana en 1983, inspirada en una época en que los cuentos de ciencia ficción cautivaban al público. Cuando el hijo de 12 años de edad de Joyce Byers, Will, desaparece, lanza una aterradora investigación sobre su desaparición con las autoridades locales. Mientras buscan respuestas, desentrañan una serie de misterios extraordinarios que involucran experimentos gubernamentales secretos, fuerzas nerviosas sobrenaturales y una niña muy inusual.",
+    "wallpaper": "https://wallpaperboat.com/wp-content/uploads/2020/09/02/54193/stranger-things-02.jpg",
+    "totalEpisodes": "34",
+    "totalSeasons": "4",
+    "authors": {
+      "name": "Hermanos Duffer",
+      "biography": "Matt Duffer y Ross Duffer (nacidos en 1984), conocidos profesionalmente como The Duffer Brothers son directores, editores, actores, productores y escritores estadounidenses. Son hermanos gemelos y se los conoce por su creación Stranger Things, un programa de televisión original de Netflix.",
+      "photo": "https://static.wikia.nocookie.net/strangerthings/images/3/35/The-Duffer-Brothers.jpg/revision/latest/scale-to-width-down/350?cb=20170112052233&path-prefix=es"
+    }
+  },
+  "bestMoments": [
+    {
+      "title": "Dustin and Suzie NeverEnding Story",
+      "metadata": "Temporada 3, The Battle of Starcourt",
+      "description": "Dustin llama a su amada para preguntarle cómo mejorar su pequeña situación de Armageddon, pero ella se niega a darle la respuesta de inmediato y lo obliga a... cantar A Never Ending Story con ella. Una escena que pasará a la historia por ser extremadamente confusa, adorable e insoportablemente divertida.",
+      "photo": "https://static.wikia.nocookie.net/strangerthings8338/images/2/20/S03E08-Dustin_and_Suzie_-_NeverEnding_Story.jpg/revision/latest?cb=20200904104158",
+      "video": "https://www.youtube.com/embed/O5HQ1sZseKg"
+    },
+    {
+      "title": "Ghostbusters Unite",
+      "metadata": "Temporada 2, Trick or Treat, Freak",
+      "description": "Mientras Will y sus amigos se preparan para Halloween, se nos muestra un montaje adorable e hilarante de ellos siendo fotografiados con sus disfraces de Cazafantasmas.",
+      "photo": "https://vader.news/__export/1631311934149/sites/gadgets/img/2021/09/10/stranger_things_cazafantasmas.jpg_1800137916.jpg",
+      "video": "https://www.youtube.com/embed/Xh3zD5CB_-Q"
+    },
+    {
+      "title": "The Kids Go to the Mall",
+      "metadata": "Temporada 3, The Mall Rats",
+      "description": "Al más puro estilo Breakfast Club , se nos presenta el caótico centro comercial Hawkins con un divertido montaje que muestra a Eleven y Max cambiándose de imagen, mientras que Mike y sus amigos se confunden mucho con una tienda de lencería. Ah, ser un adolescente.",
+      "photo": "https://i.ytimg.com/vi/5DWDRT1pGDM/maxresdefault.jpg",
+      "video": "https://www.youtube.com/embed/5DWDRT1pGDM"
+    }
+  ],
+  "characters": [
+    {
+      "name": "Will",
+      "biography": "William 'Will' Byers, interpretado por Noah Schnapp, es un personaje principal de Stranger Things. Will es el hijo de Lonnie y Joyce Byers y el hermano menor de Jonathan Byers. Es el mejor amigo de Mike Wheeler, Lucas Sinclair , Dustin Henderson, Eleven y Max Mayfield.",
+      "photo": "https://static.wikia.nocookie.net/strangerthings/images/6/6b/Will_Season_2.png/revision/latest?cb=20190427155349&path-prefix=es"
+    },
+    {
+      "name": "Mike",
+      "biography": "Michael 'Mike' Wheeler, interpretado por Finn Wolfhard, es uno de los principales protagonistas de Stranger Things. El líder del Partido, es el novio de Eleven, el mejor amigo de Dustin Henderson, Lucas Sinclair, Will Byers y Max Mayfield, y el hermano menor de Nancy Wheeler.",
+      "photo": "https://static.wikia.nocookie.net/strangerthings8338/images/f/f0/Mike_Wheeler_S3.png/revision/latest/scale-to-width-down/350?cb=20190918231339"
+    },
+    {
+      "name": "Eleven",
+      "biography": "Jane 'El' Hopper (nacida como Jane Ives), más conocida como Eleven, es una de las principales protagonistas de Stranger Thing. Su personaje es interpretado por Millie Bobby Brown.",
+      "photo": "https://static.wikia.nocookie.net/strangerthings8338/images/5/5b/ST4_Eleven.jpg/revision/latest/scale-to-width-down/330?cb=20211106162341"
+    },
+    {
+      "name": "Dustin",
+      "biography": "Dustin Henderson, interpretado por Gaten Matarazzo, es un protagonista importante en las primeras tres temporadas de Stranger Things. Es el mejor amigo de Mike Wheeler, Lucas Sinclair, Eleven, Will Byers y Max Mayfield.",
+      "photo": "https://static.wikia.nocookie.net/strangerthings8338/images/7/7b/Dustin_S3.png/revision/latest/scale-to-width-down/307?cb=20190708052048"
+    },
+    {
+      "name": "Lucas",
+      "biography": "Lucas Charles Sinclair, interpretado por Caleb McLaughlin , es un protagonista importante de Stranger Things. Es el mejor amigo de Mike Wheeler, Dustin Henderson, Will Byers, Eleven y Max Mayfield.",
+      "photo": "https://static.wikia.nocookie.net/strangerthings8338/images/5/51/S04-Lucas-Sinclair.png/revision/latest/scale-to-width-down/350?cb=20210925182721"
+    }
+  ],
+  "charactersPhoto": [
+    {
+      "name": "Will",
+      "photo": "https://static.wikia.nocookie.net/strangerthings866/images/4/44/Will_sezon_3.png/revision/latest/scale-to-width-down/281?cb=20190914100336&path-prefix=pl"
+    },
+    {
+      "name": "Mike",
+      "photo": "https://i.pinimg.com/originals/1f/41/b3/1f41b3d5f477bb819530ee4d193ad4ee.jpg"
+    },
+    {
+      "name": "Eleven",
+      "photo": "https://www.bravo.de/assets/field/image/stranger_things-_wird_eleven_zum_bosewicht.jpg"
+    },
+    {
+      "name": "Dustin",
+      "photo": "https://wallpaperaccess.com/full/1993926.jpg"
+    },
+    {
+      "name": "Lucas",
+      "photo": "https://i.pinimg.com/originals/ef/ea/b1/efeab16970feb3a9dfceaa7570b6e463.jpg"
+    }
+  ]
+}
